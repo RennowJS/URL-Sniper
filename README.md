@@ -15,3 +15,10 @@ URL-Sniper is a bot that snipes expired Discord vanity URLs in real-time. This s
 ## 🖼️ Project Images
 
 ![image](https://github.com/user-attachments/assets/64302c08-e5c9-4970-ae92-8fbb1400d74a)
+
+---
+
+## 👨‍💻 Developer
+
+> **RennowJS**  
+> Discord: atahan51_0
